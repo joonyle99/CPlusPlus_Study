@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Update_FixedUpdate.cpp">
+      <Filter>Study</Filter>
+    </ClCompile>
+    <ClCompile Include="AABB_CC.cpp">
+      <Filter>Study</Filter>
+    </ClCompile>
+    <ClCompile Include="auto.cpp">
+      <Filter>Study</Filter>
+    </ClCompile>
+    <ClCompile Include="Binaray Tree.cpp">
+      <Filter>Study</Filter>
+    </ClCompile>
+    <ClCompile Include="CCW1.cpp">
+      <Filter>Study</Filter>
+    </ClCompile>
+    <ClCompile Include="CCW2.cpp">
+      <Filter>Study</Filter>
+    </ClCompile>
+    <ClCompile Include="Cin &amp; getline%28%29.cpp">
+      <Filter>Study</Filter>
+    </ClCompile>
+    <ClCompile Include="Death Diamond.cpp">
+      <Filter>Study</Filter>
+    </ClCompile>
+    <ClCompile Include="Find%28%29 npos return.cpp">
+      <Filter>Study</Filter>
+    </ClCompile>
+    <ClCompile Include="Float Calculate.cpp">
+      <Filter>Study</Filter>
+    </ClCompile>
+    <ClCompile Include="I love you1.cpp">
+      <Filter>Study</Filter>
+    </ClCompile>
+    <ClCompile Include="I love you2.cpp">
+      <Filter>Study</Filter>
+    </ClCompile>
+    <ClCompile Include="Item Class.cpp">
+      <Filter>Study</Filter>
+    </ClCompile>
+    <ClCompile Include="Operator Overloading1.cpp">
+      <Filter>Study</Filter>
+    </ClCompile>
+    <ClCompile Include="Operator Overloading2.cpp">
+      <Filter>Study</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer Practice.cpp">
+      <Filter>Study</Filter>
+    </ClCompile>
+    <ClCompile Include="T1 Class.cpp">
+      <Filter>Study</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Study">
+      <UniqueIdentifier>{f75637b6-cb2a-47a0-b6d4-450c66bd6971}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
